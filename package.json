@@ -1,0 +1,15 @@
+{
+  "name": "crypter-discord",
+  "version": "1.0.0",
+  "description": "a simple crypto bot that gets recent cryptocurrency prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0xNafri",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.3"
+  }
+}
